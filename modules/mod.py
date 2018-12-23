@@ -1,5 +1,5 @@
 import discord
-
+import asyncio
 from discord.ext import commands
 from logger import get_logger
 import loadconfig
@@ -71,7 +71,7 @@ class mod():
             deleted += len(await ctx.channel.purge(limit=cap, before=ctx.message))
             limit -= cap
         tmp = await ctx.send(f'**:white_check_mark:** {deleted} Messages deleted')
-        await asyncio.sleep(15)
+        await asyncio.sleep(5)
         await tmp.delete()
         await ctx.message.delete()
 
