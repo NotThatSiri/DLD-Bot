@@ -1,0 +1,8 @@
+
+.floo
+.flooignore
+__pycache__
+settings/auth.py
+settings/servers.ini
+discordbot.log
+loadconfig.py
