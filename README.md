@@ -23,13 +23,13 @@ As of right now the bot is being coded by Team SpBonez and using the Discord.py 
 
 Team SpBonez Members:
 
-- SpBonez (Founder, Project Manager)
+- [SpBonez](https://github.com/spbonez) (Founder, Project Manager)
 
-- Siri (Command Coding)
+- [Siri](https://github.com/NotThatSiri) (Command Coding)
 
 - JaneDoe (Permission Control, Command Coding)
 
-- Luke (Donated some code for the project)
+- [Luke](https://github.com/LukasRH) (Donated some code for the project)
 
 ## How can I help?
 Right now we are only doing internal testing and we will let you now when we are ready to field test the bot.
