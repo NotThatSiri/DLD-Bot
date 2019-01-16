@@ -1,5 +1,5 @@
 # DLD-Bot
-[![status](https://img.shields.io/badge/status-on_hold-yellow.svg?style=for-the-badge)](https://github.com/NotThatSiri/DLD-Bot/blob/master/VERSION)
+[![status](https://img.shields.io/badge/status-In_Development-green.svg?style=for-the-badge)](https://github.com/NotThatSiri/DLD-Bot/blob/master/VERSION)
 [![license](https://img.shields.io/github/license/NotThatSiri/DLD-Bot.svg?style=for-the-badge)](https://github.com/NotThatSiri/DLD-Bot/blob/master/LICENSE)
 [![version](https://img.shields.io/badge/version-0.0.1-orange.svg?style=for-the-badge)](https://github.com/NotThatSiri/DLD-Bot/blob/master/VERSION)
 [![discord](https://img.shields.io/badge/Discord-Dancing%20Line%20Discord-blue.svg?style=for-the-badge&logo=discord)](https://discord.io/dancingline)
