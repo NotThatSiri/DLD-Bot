@@ -9,7 +9,10 @@
 [![open-pullrequests](https://img.shields.io/github/issues-pr-raw/NotThatSiri/DLD-Bot.svg?style=for-the-badge)](https://github.com/NotThatSiri/DLD-Bot/pulls)
 ![closed-pullrequests](https://img.shields.io/github/issues-pr-closed-raw/NotThatSiri/DLD-Bot.svg?style=for-the-badge)
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/spaces%2F-LUO2qA87fRLhQcoAgi6%2Favatar.png?generation=1546929582237884&alt=media)
+![Avatar](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/spaces%2F-LUO2qA87fRLhQcoAgi6%2Favatar.png?generation=1546929582237884&alt=media)
+
+Wikia Wrapper [![Wikia release](https://img.shields.io/github/release/NotThatSiri/Wikia-Python-Wrapper-Rewritten.svg)](https://github.com/NotThatSiri/Wikia-Python-Wrapper-Rewritten/releases) by [NotThatSiri](https://github.com/NotThatSiri) & [Polaris](https://github.com/PolarisLo)
+
 
 A Discord Bot for Dancing Line Discord
 
@@ -25,6 +28,8 @@ As of right now the bot is being coded by NotThatSiri and using the Discord.py A
 
 
 - [Siri](https://github.com/NotThatSiri) (Project Manager, Command Coding)
+
+- [Polaris](https://github.com/PolarisLo) (Wikia API Wrapper coding, Bug Hunter)
 
 - JaneDoe (Permission Control, Command Coding)
 
