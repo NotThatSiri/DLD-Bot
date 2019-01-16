@@ -256,11 +256,9 @@ class WikiaPage(object):
 
       pages = request['query']['pages']
       if 'generator' in query_params:
-        for datum in pages.values():
-          yield datum
+        yield from pages.values()
       else:
-        for datum in pages[self.pageid][prop]:
-          yield datum
+        yield from pages[self.pageid][prop]:
 
       if 'continue' not in request:
         break
