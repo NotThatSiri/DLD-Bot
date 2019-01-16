@@ -6,3 +6,4 @@ settings/auth.py
 settings/servers.ini
 discordbot.log
 loadconfig.py
+wikitest.py
