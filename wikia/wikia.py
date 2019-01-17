@@ -233,8 +233,7 @@ class WikiaPage(object):
     self.pageid = query['id']
     self.title = query['title']
     lang = query_params['lang']
-    self.url = STANDARD_URL.format(lang=lang, sub_wikia=self.sub_wikia,
-                                   page=self.title)
+    self.url = STANDARD_URL.format(lang=lang, sub_wikia=self.sub_wikia, page=self.title.replace(' ','_'))
 
   def __continued_query(self, query_params):
     '''
