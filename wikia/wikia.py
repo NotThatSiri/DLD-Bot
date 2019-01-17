@@ -233,6 +233,7 @@ class WikiaPage(object):
     self.pageid = query['id']
     self.title = query['title']
     lang = query_params['lang']
+    
     self.url = STANDARD_URL.format(lang=lang, sub_wikia=self.sub_wikia, page=self.title.replace(' ','_'))
 
   def __continued_query(self, query_params):
@@ -257,6 +258,7 @@ class WikiaPage(object):
       if 'generator' in query_params:
         yield from pages.values()
       else:
+        
         yield from pages[self.pageid][prop]
 
       if 'continue' not in request:
