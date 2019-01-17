@@ -1,7 +1,7 @@
 # DLD-Bot
 [![status](https://img.shields.io/badge/status-In_Development-green.svg?style=for-the-badge)](https://github.com/NotThatSiri/DLD-Bot/blob/master/VERSION)
 [![license](https://img.shields.io/github/license/NotThatSiri/DLD-Bot.svg?style=for-the-badge)](https://github.com/NotThatSiri/DLD-Bot/blob/master/LICENSE)
-[![version](https://img.shields.io/badge/version-0.0.1-orange.svg?style=for-the-badge)](https://github.com/NotThatSiri/DLD-Bot/blob/master/VERSION)
+[![version](https://img.shields.io/badge/version-0.1.1-orange.svg?style=for-the-badge)](https://github.com/NotThatSiri/DLD-Bot/blob/master/VERSION)
 [![discord](https://img.shields.io/badge/Discord-Dancing%20Line%20Discord-blue.svg?style=for-the-badge&logo=discord)](https://discord.io/dancingline)
 
 [![open-issues](https://img.shields.io/github/issues-raw/NotThatSiri/DLD-Bot.svg?style=for-the-badge)](https://github.com/spbonez/DLD-Bot/issues)
@@ -21,7 +21,7 @@ Documentation can be found [here](https://dld-bot.gitbook.io/documentation).
 ## What is the purpose of this bot?
 The DLD Bot is a bot created for the Dancing Line Discord server to serve as a multi functional discord bot.
 
-The bot i to be able to provide moderators with Mod commands, as well as auto post messages, show Dancing Line info as well as post announcements from the DL facebook and youtube. 
+The bot i to be able to provide moderators with Mod commands, as well as auto post messages, show Dancing Line info as well as post announcements from the DL facebook and youtube.
 
 ## Who is behind the bot?
 As of right now the bot is being coded by NotThatSiri and using the Discord.py API Wrapper
