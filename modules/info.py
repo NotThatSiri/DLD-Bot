@@ -30,8 +30,6 @@ class info():
             embed.set_image(url=mb.images[0])
 
         await ctx.send(content=None, embed=embed)
-        #await ctx.send(mb.images)
-        #await ctx.send()
 
 def setup(bot):
     bot.add_cog(info(bot))
