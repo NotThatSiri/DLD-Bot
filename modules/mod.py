@@ -9,7 +9,6 @@ __version__ = "0.0.2"
 
 logger = get_logger(__name__)
 
-
 class mod():
     def __init__(self, bot):
         self.bot = bot

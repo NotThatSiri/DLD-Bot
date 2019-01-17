@@ -258,7 +258,7 @@ class WikiaPage(object):
       if 'generator' in query_params:
         yield from pages.values()
       else:
-        yield from pages[self.pageid][prop]:
+        yield from pages[self.pageid][prop]
 
       if 'continue' not in request:
         break
