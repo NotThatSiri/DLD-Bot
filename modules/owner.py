@@ -91,8 +91,11 @@ class owner():
             self.bot.load_extension(cog)
         except Exception as e:
             await ctx.send(f'**`ERROR:`** {type(e).__name__} - {e}')
+            logger.warning(f'Couldn\'t load cog {cog}')
+            logger.error(e)
         else:
             await ctx.send('**`SUCCESS`**')
+            logger.info('<{0}> Loaded successfully.'.format(cog))
 
     @commands.command(name='unload', hidden=True)
     @commands.is_owner()
@@ -104,8 +107,11 @@ class owner():
             self.bot.unload_extension(cog)
         except Exception as e:
             await ctx.send(f'**`ERROR:`** {type(e).__name__} - {e}')
+            logger.warning(f'Couldn\'t unload cog {cog}')
+            logger.error(e)
         else:
             await ctx.send('**`SUCCESS`**')
+            logger.info('<{0}> UnLoaded successfully.'.format(cog))
 
     @commands.command(name='reload', hidden=True)
     @commands.is_owner()
@@ -118,8 +124,11 @@ class owner():
             self.bot.load_extension(cog)
         except Exception as e:
             await ctx.send(f'**`ERROR:`** {type(e).__name__} - {e}')
+            logger.warning(f'Couldn\'t reload cog {cog}')
+            logger.error(e)
         else:
             await ctx.send('**`SUCCESS`**')
+            logger.info('<{0}> reloaded successfully.'.format(cog))
 
 def setup(bot):
     bot.add_cog(owner(bot))
