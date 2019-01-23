@@ -11,12 +11,14 @@
 
 ![Avatar](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/spaces%2F-LUO2qA87fRLhQcoAgi6%2Favatar.png?generation=1546929582237884&alt=media)
 
-Wikia Wrapper [![Wikia release](https://img.shields.io/github/release/NotThatSiri/Wikia-Python-Wrapper-Rewritten.svg)](https://github.com/NotThatSiri/Wikia-Python-Wrapper-Rewritten/releases) by [NotThatSiri](https://github.com/NotThatSiri) & [Polaris](https://github.com/PolarisLo)
-
 
 A Discord Bot for Dancing Line Discord
 
 Documentation can be found [here](https://dld-bot.gitbook.io/documentation).
+
+# DLD-Bot Deprecated
+With future development in mind, we have decided to deprecate the DLD-Bot and merge it into [Bonnie](https://github.com/NotThatSiri/Bonnie/) A Discord Moderation / Multipurpose Bot.
+This Repository will be archived rather than deleted. but the future code development & Support can be found at [https://github.com/NotThatSiri/Bonnie/](https://github.com/NotThatSiri/Bonnie/)
 
 ## What is the purpose of this bot?
 The DLD Bot is a bot created for the Dancing Line Discord server to serve as a multi functional discord bot.
