@@ -1,13 +1,7 @@
 # DLD-Bot
-[![status](https://img.shields.io/badge/status-In_Development-green.svg?style=for-the-badge)](https://github.com/NotThatSiri/DLD-Bot/blob/master/VERSION)
 [![license](https://img.shields.io/github/license/NotThatSiri/DLD-Bot.svg?style=for-the-badge)](https://github.com/NotThatSiri/DLD-Bot/blob/master/LICENSE)
 [![version](https://img.shields.io/badge/version-0.1.1-orange.svg?style=for-the-badge)](https://github.com/NotThatSiri/DLD-Bot/blob/master/VERSION)
 [![discord](https://img.shields.io/badge/Discord-Dancing%20Line%20Discord-blue.svg?style=for-the-badge&logo=discord)](https://discord.io/dancingline)
-
-[![open-issues](https://img.shields.io/github/issues-raw/NotThatSiri/DLD-Bot.svg?style=for-the-badge)](https://github.com/spbonez/DLD-Bot/issues)
-![closed-issues](https://img.shields.io/github/issues-closed-raw/NotThatSiri/DLD-Bot.svg?style=for-the-badge)
-[![open-pullrequests](https://img.shields.io/github/issues-pr-raw/NotThatSiri/DLD-Bot.svg?style=for-the-badge)](https://github.com/NotThatSiri/DLD-Bot/pulls)
-[![closed-pullrequests](https://img.shields.io/github/issues-pr-closed-raw/NotThatSiri/DLD-Bot.svg?style=for-the-badge)](https://github.com/NotThatSiri/DLD-Bot/pulls?q=is%3Apr+is%3Aclosed)
 
 ![Avatar](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/spaces%2F-LUO2qA87fRLhQcoAgi6%2Favatar.png?generation=1546929582237884&alt=media)
 
